@@ -1,0 +1,67 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 2rem;
+    transition: background-color 0.5s, color 0.5s;
+    color: #222;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    margin: 2rem 0;
+}
+
+.theme-button {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.button {
+    width: 100px;
+    height: 100px;
+    border: 2px solid #000;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: transform 0.3s;
+}
+
+.button:hover {
+    transform: scale(1.05);
+}
+
+/* Theme Colors */
+#Midnight\ Blue {
+    background-color: #191970;
+}
+
+#Dark\ Mode {
+    background-color: #121212;
+}
+
+#Mint\ Cream {
+    background-color: #F5FFFA;
+}
+
+#Rose\ Sunset {
+    background-color: #FF6F61;
+}
+
+#Forest\ Night {
+    background-color: #013220;
+}
+
+#Sky\ Lavender {
+    background-color: #CBD3EB;
+}
+
+.description,
+.instruction,
+.footer-text {
+    margin-top: 1rem;
+}
