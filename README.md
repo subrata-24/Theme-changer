@@ -18,16 +18,16 @@ A simple yet stylish web app that allows users to switch between different backg
 ## 📸 Screenshot
 
 ### Light Mode
-![Light Mode](./assets/Mint Cream.png)
+![Light Mode](./assets/light-mode.png)
 
 ### Dark Mode
 ![Dark Mode](./assets/dark-mode.png)
 
 ### Dark Mode
-![Midnight Blue](./assets/Midnight Blue.png)
+![Midnight Blue](./assets/midnight-blue.png)
 
 ### Dark Mode
-![Forest Night](./assets/Forest Night.png)
+![Forest Night](./assets/forest-night.png)
 
 ## 🗂️ Project Structure
 
