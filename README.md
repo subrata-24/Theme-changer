@@ -21,7 +21,7 @@ A simple yet stylish web app that allows users to switch between different backg
 ![Light Mode](./assets/Mint Cream.png)
 
 ### Dark Mode
-![Dark Mode](./assets/Dark Mode.png)
+![Dark Mode](./assets/dark-mode.png)
 
 ### Dark Mode
 ![Midnight Blue](./assets/Midnight Blue.png)
