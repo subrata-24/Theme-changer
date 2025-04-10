@@ -15,6 +15,27 @@ A simple yet stylish web app that allows users to switch between different backg
 - CSS3
 - JavaScript (Vanilla)
 
+  # Theme Changer Project
+
+## 📦 How to Use
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/subrata-24/theme-changer.git
+    ```
+
+2. Open `index.html` in your browser.
+
+Enjoy your personalized color theme experience!
+
+---
+
+## ✨ Author
+
+**Subrata Biswas** — [GitHub](https://github.com/subrata-24)
+
+---
+
 ## 📸 Screenshot
 
 ### Light Mode
